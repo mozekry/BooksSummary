@@ -4,7 +4,7 @@ The chapter highlights that people often fail by continuing to rely on what made
 
 The chapter focuses on two frequently experienced types of transitions: promotions and onboarding into new companies.
 
-## Challenges of Getting Promoted [54, Figure 1-1]:
+## Challenges of Getting Promoted:
 
 • Balance Breadth and Depth: Leaders must shift from a functional focus to a wider range of issues, maintaining a high-level perspective while knowing when to delve into details.
 
