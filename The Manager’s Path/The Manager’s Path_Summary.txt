@@ -1,0 +1,40 @@
+## **CHAPTER 1 (Management 101)**
+
+Chapter 1 of *The Manager’s Path*, titled "Management 101", serves as a practical guide focusing on the perspective of the employee being managed. It emphasizes that the experience of being managed forms the essential foundation upon which an individual constructs their own philosophy of management.
+
+The chapter details what an employee should expect from a good manager versus a poor one, covering critical areas such as communication, feedback, and career development.
+
+### What to Expect from a Manager
+
+The book contrasts effective management with dysfunctional types, such as the manager who practices "benign neglect," leaving the employee alone entirely, or worse, the neglectful or actively abusive manager. A good manager is one who actively helps an employee grow, provides guidance, teaches skills, and enables them to focus on important work.
+
+Key expectations include:
+
+*   **One-on-One Meetings (1-1s):** These are an **essential feature** of a healthy working relationship.
+    *   **Purpose:** 1-1s serve two primary functions: establishing **human connection** (which builds trust and allows the manager to provide context during stressful periods) and offering a **regular, private opportunity** for the employee to discuss issues.
+    *   **Format:** For individual contributors, 1-1s should generally **not be status meetings**, as status updates can be handled through email or chat. They should be scheduled with predictability.
+    *   **Responsibility:** Employees share the responsibility for successful 1-1s by coming prepared with an agenda.
+*   **Feedback and Workplace Guidance:** Managers must provide feedback immediately, as quick delivery makes corrections easier.
+    *   Praise should ideally be somewhat **public**, while criticism should be **private**.
+    *   Managers are expected to act as a resource, helping employees improve skills beyond coding (e.g., reviewing documents or presentations).
+    *   The manager acts as the employee’s "number one ally" when navigating conflicts or difficult work situations.
+    *   Managers should assign **stretch projects** and clarify how the employee's work fits into the overall team goals, thereby providing a sense of purpose.
+    *   For senior staff, feedback often shifts from personal habits to team or strategy-related input.
+*   **Training and Career Growth:** The manager is the "main liaison" for accessing company resources like training, conferences, or necessary books.
+    *   Managers are integral to the **promotion process**, guiding the employee, helping prepare materials, and advocating for the promotion.
+    *   However, employees are primarily responsible for identifying the types of training they want and need.
+
+### How to Be Managed
+
+A crucial element of the chapter is advice directed to the employee on developing a "sense of ownership and authority" over their career, rather than depending solely on the manager.
+
+Advice for the employee includes:
+
+*   **Own Your Ambitions:** Employees must proactively think about what they want to do, learn, and what will make them happy, as the manager cannot read minds. Employees are the only person they can rely on to navigate career uncertainty.
+*   **Self-Advocacy:** Employees are responsible for bringing agendas to 1-1s, asking for raises or promotions, asking for projects they want to work on, and communicating when they are persistently unhappy or stuck. Setting and enforcing work-life balance boundaries is also the employee's responsibility.
+*   **Managing the Manager:** Employees should remember that managers are imperfect, stressed, and focused on the company's best interests, not just employee happiness. If an employee approaches the manager with a problem, they should ideally also bring potential solutions or ask for advice, which demonstrates respect and trust.
+*   **Choosing Management:** Employees should carefully evaluate potential job opportunities based on the manager's strength, network, and ability to advocate, not just salary or technical reputation.
+
+The chapter concludes with a series of questions intended for the reader to assess their own experience with previous managers, 1-1 dynamics, feedback quality, and professional goal setting.
+
+=====================================================================================
